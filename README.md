@@ -2,6 +2,8 @@
 
 ## Description
 
+This project is to demonstrate how to change the previous database to the apollo server. 
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
